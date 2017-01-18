@@ -1,4 +1,4 @@
-# xample MongoDB
+# Example MongoDB
 ### Description
 
 Example source for MongoDB, NodeJS, Express
