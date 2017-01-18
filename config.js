@@ -1,3 +1,3 @@
 module.exports = {
-    'database': 'mongodb://localhost:27017/dangkhoa'
+    'database': 'mongodb://host:port/database_name'
 };
