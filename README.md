@@ -1,4 +1,7 @@
 # Example MongoDB
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/htdangkhoa/example-mongodb.svg)](https://greenkeeper.io/)
+
 ### Description
 
 Example source for MongoDB, NodeJS, Express
